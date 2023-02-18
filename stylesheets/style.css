@@ -608,6 +608,7 @@ hr{
   }
   nav{
     height: 100px;
+    width: 123vw;
   }
   nav .menu-icon, nav .cancel-icon{
     font-size: 30px;
@@ -633,8 +634,12 @@ hr{
   #text{
     width: 120vw;
   }
+  #box #overlayy{
+    width: 100%;
+    height: 100%;
+  }
   #main{
-    width: 135%;
+    width: 120vw;
   }
   #p3-top{
     flex-direction: column;
