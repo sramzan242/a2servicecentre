@@ -21,7 +21,6 @@ html,body{
 }
 #main{
   width: 98.5vw;
-  overflow-x: hidden;
 }
 
 nav{
@@ -784,7 +783,8 @@ hr{
     height: 100%;
   }
   #main{
-    width: 105vw;
+    width: 101vw;
+    overflow-x: hidden;
   }
   #p3-top{
     -webkit-box-orient: vertical;
@@ -813,7 +813,7 @@ hr{
     margin-bottom: 60px
   }
   #p3{
-    width: 100vw;
+    width: 102vw;
     height: 130vh;
   }
    
