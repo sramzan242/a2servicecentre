@@ -10,7 +10,8 @@ width: 100%;
 height: 100%;
 }
 #main{
-    width: 100%;   
+    width: 140vw; 
+    overflow-x: hidden;  
 }
 
 nav{
@@ -521,7 +522,7 @@ button{
   height: 50vw;
 }
     #page6{
-      width: 150%;
+      width: 100%;
       height: 300vw;
     }
     #p6container{
