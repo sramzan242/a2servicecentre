@@ -800,6 +800,7 @@ hr{
   }
   nav .logo>img{
     height: 20vw;
+    margin-right: 140px;
   }
   #logo1>img{
     width: 40vw;
@@ -858,7 +859,7 @@ hr{
   }
    
   #p3container{
-    margin-top: 200px;
+    margin-top: 160px;
   }
   #p3-top{
     height: 100vh;
@@ -876,7 +877,7 @@ hr{
    height: 100vh;
 }
 #p3container button{
-  margin-top: 100px;
+  margin-top: 60px;
   padding: 5vw 15vw;
   font-size: 5vw;
 }
@@ -913,9 +914,9 @@ hr{
   height: 35vh;
 }
 #page4 #p4left img{
-  margin-top: 65px;
+  margin-top: -11px;
   /* display: none; */
-  width: 85vw;
+  width: 90vw;
   height: 72vw;
 }
 #page4 #p4right h1{
@@ -931,8 +932,8 @@ hr{
   font-weight: 700;
   width: 90%;
   line-height: 1.1;
-  margin-top: 30px;
-  margin-bottom: 50px;
+  margin-top: -195px;
+  margin-bottom: 35px;
 }
 #p4right button{
   font-size: 4vw;
@@ -946,10 +947,11 @@ hr{
 }
 
 #p4_1{
+  position: relative;
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 352vw;
+  height: 396vw;
 }
 
 #p4_1container h1{
@@ -958,7 +960,7 @@ font-size: 35px;
 
 }
 #p4_1container{
-  margin-top: 90px;
+  margin-top: 0px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -976,15 +978,24 @@ font-size: 35px;
   border-radius: 10px;
 }
 #image{
-  width: 360px;
-  height: 320px;
+  width: 340px;
+  height: 280px;
   background-image: url(/images/images\ \(1\).webp);
   background-size: cover;
   background-position: center;
 }
+#review{
+  position: absolute;
+  width: 340px;
+  height: 280px;
+  margin-top: 1300px;
+  /* background-image: url(/images/review2.jpg);
+  background-size: cover;
+  background-position: center; */
+}
 #p4_1 #image {
   margin-top: 30px;
-  margin-left: -10px;
+  margin-left: 0px;
 }
 
 #p5-top{
