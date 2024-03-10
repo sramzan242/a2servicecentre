@@ -1074,6 +1074,7 @@ font-size: 35px;
 }
 .p6box{
   width: 100%;
+  height: auto;
 }
 .p6box h2{
   font-size: 8vw;
@@ -1083,6 +1084,6 @@ font-size: 35px;
 }
 .p6box h3{
   font-size: 8vw;
-  margin: 20px 0
+  margin: 0px 0
 }
 }
